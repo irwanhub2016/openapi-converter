@@ -9,6 +9,8 @@ A Node.js tool to convert OpenAPI YAML specifications into Excel test case sheet
 - Generates detailed test cases for each API operation and response status.
 - Outputs test cases in an Excel (.xlsx) file with multiple sheets for API summary, test cases, request details, and response details.
 
+![image](https://github.com/user-attachments/assets/983b02d4-853f-4b0b-b340-5677e458fcbd)
+
 ## Installation
 
 Make sure you have Node.js installed.
