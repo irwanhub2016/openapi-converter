@@ -417,7 +417,7 @@ function createExcelFile(testCases, outputFile) {
 function main() {
   // Check command line arguments
   if (process.argv.length < 3) {
-    console.error('Usage: node openapi-to-xlsx.js <openapi-file.yaml> [output-file.xlsx]');
+    console.error('Usage: node main.js <openapi-file.yaml> [output-file.xlsx]');
     process.exit(1);
   }
   
