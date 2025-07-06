@@ -1,4 +1,4 @@
-# openapi-to-sheet-claude
+# OpenAPI to Sheet (Testcase Format)
 
 A Node.js tool to convert OpenAPI YAML specifications into Excel test case sheets, designed to help QA engineers generate API test cases efficiently.
 
